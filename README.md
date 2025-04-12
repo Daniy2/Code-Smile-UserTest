@@ -40,8 +40,8 @@ There you’ll find how to:
 
 Once you’ve completed both parts of the task, **please fill in the final evaluation form**:
 
-- 📄 **Group A** [Go to the Google Form →](https://docs.google.com/forms/d/e/1FAIpQLScePSCDN3hEFrgH77paO0wzzr9zGTU_t_PsvYbYcQUNAT0hoQ/viewform?usp=dialog)
-- 📄 **Group B** [Go to the Google Form → ](https://docs.google.com/forms/d/e/1FAIpQLSdU9ybqT1-pfRZq7zGjJpr2aMTOSeYTpehCH8vhV2Ap_8B08g/viewform?usp=dialog)
+- 📄 [Go to the Google Form →](https://docs.google.com/forms/d/e/1FAIpQLScePSCDN3hEFrgH77paO0wzzr9zGTU_t_PsvYbYcQUNAT0hoQ/viewform?usp=dialog) **Group A**
+- 📄 [Go to the Google Form → ](https://docs.google.com/forms/d/e/1FAIpQLSdU9ybqT1-pfRZq7zGjJpr2aMTOSeYTpehCH8vhV2Ap_8B08g/viewform?usp=dialog) **Group B**
 
 In the form, you will be asked:
 - What code smells you found
